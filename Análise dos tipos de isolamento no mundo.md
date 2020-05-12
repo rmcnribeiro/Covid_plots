@@ -65,18 +65,17 @@
     - **Fase 1 (Apenas em determinadas regiões)**: 11/05/2020
         - Casos em Madrid: **69801** 
         Atingiu aproximadamente 51% dos espanhóis, uma vez que foi efetivado em apenas determinadas regiões e províncias. Por não ter alcançado os níves desejados para avanço de fase, **Madrid não se enquadrou nesse avanço**, portanto, ainda permaneceu na *"Fase 0"* .
-        Nessa fase, é permitido(a):
+        Nessa fase, é/são permitido(a)/permitidos(as):
             - Reuniões de até 10 pessoas (Desde que mantidas as medidas de distanciamento social).
             - A abertura parcial (50% da capacidade do local aberto) de estabelecimentos como cafés, bares e restaurantes.
-            - A abertura de Hotéis e acomodações turísticas, desde que com áreas comuns como resstaurantes e buffets fechados.
+            - A abertura de Hotéis e acomodações turísticas, desde que com áreas comuns como restaurantes e buffets fechados.
+            - A abertura de locais religiosos e de adoração, desde que limitado a 30% de sua capacidade máxima. Funerais também são permitidos, desde que com um número limitado de pessoas.
+            - Eventos culturais em locais fechados envolvendo até 30 pessoas, limitados a um terço de sua capacidade total.
+            - Eventos culturais em locais abertos envolvendo até 200 pessoas (sentadas).
+            - A abertura de museus a um terço de sua capacidade total.
+            - A prática de esportes não profissionais, desde o mesmo não involva contato físico ou o uso de vestiários.
+            - A abertura de mercados ao ar livre, desde que as tendas estejam devidamente distanciadas. 
     
-
-    - **Afrouxamento da quarentena**: 07/05/2020
-        Renúncia do diretor Geral de Saúde, aparentemente em protesto contra essa medida. 
-        - Casos em Madrid: **69174**  
-     
-
-
 
 # Dicionário
 - **Ordem para ficar em casa / Lockdown**: "*Stay-at-home order*" nos Estados Unidos ou "*movement control order*" no Sudeste Asiático é uma ordem pela autoridade governamental que restringe a locomoção da população, como uma **quarentena em massa** para suprimir ou mitigar uma pandemia. Isso se dá pela determinação aos residentes a ficarem em casa, com exceção das tarefas essenciais
