@@ -53,16 +53,17 @@
         - Setores de contrução e industrias, que antes não poderiam trabalhar, agora foram autorizados
     - **Menores de 14 anos autorizados a pequenas caminhadas**: 26/04/2020
         - Casos em Madrid: **65055** 
-        - Crianças menores de 14 anos autorizadas a dar pequenas caminhadas acompanhados de adolescentes de 15 a 17 anos
+        - Crianças menores de 14 anos autorizadas a dar pequenas caminhadas acompanhados de adolescentes de 15 a 17 anos.
     - **Plano para afrouxamento da quarentena**: 28/04/2020
         - Casos em Madrid: **66281**
     O plano teria quatro fases, enumeradas de 0 a 3. Cada fase deveria durar pelo menos uma semana. A transição de uma fase para a outra seria baseada em fatores de saúde pública como:
-        - Número de casos
-        - Capacidade do sistema de saúde 
+            - Número de casos
+            - Capacidade do sistema de saúde 
     - **Fase 0**: 02/05/2020
         - Casos em Madrid: **67888**  
-    A *"Fase 0"* permitiu as pessoas a saírem de suas casas para pequenas caminhadas e esportes individuais
+    A *"Fase 0"* permitiu as pessoas a saírem de suas casas para pequenas caminhadas e esportes individuais.
     - **Fase 1 (Apenas em determinadas regiões)**: 11/05/2020
+    
         - Casos em Madrid: **69801** 
         Atingiu aproximadamente 51% dos espanhóis, uma vez que foi efetivado em apenas determinadas regiões e províncias. Por não ter alcançado os níves desejados para avanço de fase, **Madrid não se enquadrou nesse avanço**, portanto, ainda permaneceu na *"Fase 0"* .
         Nessa fase, é/são permitido(a)/permitidos(as):
