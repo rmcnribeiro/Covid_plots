@@ -64,7 +64,7 @@
     A *"Fase 0"* permitiu as pessoas a saírem de suas casas para pequenas caminhadas e esportes individuais.
     - **Fase 1 (Apenas em determinadas regiões)**: 11/05/2020
     
-        - Casos em Madrid: **69801** 
+        - Casos em Madrid: **69801**\
         Atingiu aproximadamente 51% dos espanhóis, uma vez que foi efetivado em apenas determinadas regiões e províncias. Por não ter alcançado os níves desejados para avanço de fase, **Madrid não se enquadrou nesse avanço**, portanto, ainda permaneceu na *"Fase 0"* .
         Nessa fase, é/são permitido(a)/permitidos(as):
             - Reuniões de até 10 pessoas (Desde que mantidas as medidas de distanciamento social).
