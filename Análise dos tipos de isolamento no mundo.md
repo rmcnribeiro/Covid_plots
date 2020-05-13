@@ -154,20 +154,20 @@
       
       - FASE 1: 11/05/2020 a 02/06/2020
       
-      - Os departamentos foram divididos entre "áreas de maior risco" (vermelhas) e "áreas de menor risco" (verdes).
+      - Os departamentos foram divididos entre áreas de maior risco (vermelhas - "desconfinamento restrito") e "áreas de menor risco" (verdes - "largo desconfinamento").
       - Essa classificação se baseia em três indicadores da atividade epidêmica:
           -◾ Tensão hospitalar sobre a capacidade de leitos
           -◾ Circulação ativa do coronavírus
           -◾ Taxa de cobertura e necessidade de testes
         
-      - Os departamentos verdes deverão seguir o desconfinamento normalmente, enquanto os vermelhos deverão tomar medidas mais cautelosas. Segue um resumo das decisões tomadas:
+      - Os departamentos verdes deverão seguir o desconfinamento normalmente, enquanto os vermelhos deverão tomar medidas mais cautelosas. As diferenças serão sobretudo na abertura de creches, parques, jardins e pequenos museus apenas no primeiro caso. Segue um resumo das decisões tomadas:
       
           - **DESLOCAMENTO** A attestation de déplacement dérogatoire (justificativa do motivo de saída) não é mais obrigatória, com exceção de viagens de mais de 100km. O uso de máscaras não é obrigatório, mas recomendado. (Paris: Algumas ruas consideradas "cheias" foram fechadas).
           - **VIAGENS LONGAS** Todas as viagens com mais de 100km precisarão de um certificado de permissão e só podem ser realizadas por motivos essenciais, como trabalho crucial e/ou urgências familiares. Visitas familiares não se qualificam como uma razão para essas viagens. Fronteiras com países fora da União Europeia continuam fechadas.
           - **TRABALHO** A maioria das pessoas voltará a trabalhar, mantendo medidas de distanciamento social, como turnos alternados e distanciamento das mesas.
           - **COMÉRCIO**:Todas as lojas poderão ser reabertas, mas com um limite de pessoas por espaço e colocando marcadores para manter a distância de 2m nas filas. Governos locais podem impedir a abertura de um estabelecimento que não cumpra essas regras. O uso de máscara é recomendado.
           - **TRANSPORTE** : Transportes públicos internos operando em maiores níveis (Paris: 70% dos serviços de transporte). Transportes intermunicipais operando de maneira reduzida. O uso de máscara é compulsório. Autoridades locais tem liberdade para tomar outras decisões.
-          - **EDUCAÇÃO**: Creches e Ensino Fundamental começam a abrir. Limite de 10 crianças por sala nas creches e 15 crianças por sala nas escolas. Máscaras obrigatórias apenas no caso do Ensino Fundamental. Pais não são obrigados a reenviar seus filhos para a escola, de maneira que o retorno é VOLUNTÁRIO. Alunos de Ensino Médio ainda não voltaram (decisão será tomada no final de maio).
+          - **EDUCAÇÃO**: Escolas de ensino fundamental são abertas. Creches abrem apenas nas zonas verdes. Limite de 10 crianças por sala nas creches e 15 crianças por sala nas escolas. Máscaras obrigatórias apenas no caso do Ensino Fundamental. Pais não são obrigados a reenviar seus filhos para a escola, de maneira que o retorno é VOLUNTÁRIO. Alunos de Ensino Médio ainda não voltaram (decisão será tomada no final de maio).
           - **SOCIALIZAÇÃO**: Limite de 10 pessoas por reunião, com a exceção de funerais (20 pessoas). Praias fechadas até, pelo menos, 01/06. Igrejas podem ser reabertas, desde que respeitem medidas de distanciamento social, mas cerimônias religiosas oficiais só podem ser realizadas a partir de 02/06. Parques e jardins podem ser reabertos apenas em áreas de baixo risco (verdes).
           - **RESTAURANTES**: Restaurantes, bares e cafés continuam fechados. Uma decisão quanto a reabertura desses espaços será tomada no final de maio.
           - **EXERCÍCIO/ESPORTE**: Exercícios físicos podem ser realizados normalmente, desde que em espaço aberto (exceção: Paris - corrida proibida durante o dia). Academias, esportes em áreas fechadas ou esportes de time/contato ainda não são permitidos. Esportes profissionais não serão permitidos até, pelo menos, o início de Setembro.
